@@ -1,0 +1,35 @@
+Nom: Le Guerrier
+Taille: 1m80
+Poids: 75kg
+Yeux: Marron
+Ethnie: Caucasien
+Dextrie: Droitier
+Race: Humain
+Classe: Guerrier
+Alignement: LN
+Niveau: 1
+Point de Destin: 0
+Or: 44PO 9PA 9PC
+
+FOR:16 (14+2 racial)
+DEX:12
+CON:14
+INT:13
+SAG:8
+CHA:8
+(total 69+2 racial)
+
+Artisanat(INT): 2
+Connaissances (explo sout.) (INT): 0
+Connaissances (Ingé.) (INT): 0
+Dressage (CHA): 0
+Equitation (DEX): 0
+Escalade (FOR): 0
+Intimidation (CHA): 0
+Natation (FOR): 1
+Profession (SAG): 0
+Survie (SAG): 2
+(2+MOD INT 2+ 1 RACIAL = 5 TOTAL / LVL)
+
+Dons: Robustesse, Armes en main (dégainer action libre)
+
