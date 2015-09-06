@@ -33,3 +33,28 @@ Survie (SAG): 2
 
 Dons: Robustesse, Armes en main (dégainer action libre)
 
+Equipement:
+Armes:
+Epée à deux mains
+5 couteaux de lancer
+5 aiguilles à coudre
+2 pierres à aiguiser
+
+Armure:
+Chemise de mailles
+
+Equipement d'aventurier:
+Sac a dos
+Sac
+Sacoches de ceinture
+Outre
+Silex et amorce
+Pot en fer
+Paillasse
+Couverture d'hiver
+Corde de soie de 15m
+2 fioles
+2 kg de chausse trappes
+2 morceaux de craie
+2 rations de survie
+2 torches
